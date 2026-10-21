@@ -225,4 +225,4 @@ Plex Media Server is offered as the **official free version** with all features 
 Ready to take control of your multimedia library? **Download Plex Media Server now and enjoy a world of media at your fingertips!**
 
 ---
-**Last updated:** 2026-10-20 21:00:59 UTC
+**Last updated:** 2026-10-21 00:14:37 UTC
